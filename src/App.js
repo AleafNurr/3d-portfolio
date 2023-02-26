@@ -6,7 +6,12 @@ function App() {
   
   return (
     <div>
-      <Background />
+      <div>
+        <Background />
+      </div>
+      <div>
+        <h1>Hello</h1>
+      </div>
     </div>
   );
 }
